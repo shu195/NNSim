@@ -1,0 +1,27 @@
+name: Feature Request
+description: Suggest a feature for nnsim
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: Problem
+      description: What problem are you trying to solve?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Proposed Solution
+      description: Describe your preferred design or API.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Example Usage
+      description: Show an example command or code snippet.
+
+  - type: textarea
+    attributes:
+      label: Additional Context
+      description: Any tradeoffs, alternatives, or compatibility notes.
