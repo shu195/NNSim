@@ -1,7 +1,7 @@
 # nnsim
 
-[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
-[![Release](https://github.com/OWNER/REPO/actions/workflows/release.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/release.yml)
+[![CI](https://github.com/shu195/NNSim/actions/workflows/ci.yml/badge.svg)](https://github.com/shu195/NNSim/actions/workflows/ci.yml)
+[![Release](https://github.com/shu195/NNSim/actions/workflows/release.yml/badge.svg)](https://github.com/shu195/NNSim/actions/workflows/release.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A production-grade neural network simulator written in pure Python with a clean architecture, test suite, and packaging support.
